@@ -1,0 +1,8 @@
+#Nota; Para mis environments utilicé conda con Python 3.11.0!
+python-nmap
+rich
+requests
+scapy
+python-dotenv
+flask
+flask_cors
