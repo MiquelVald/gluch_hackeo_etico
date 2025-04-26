@@ -31,6 +31,8 @@
 - **Fases del hacking (GreyCampus)**  
   https://www.greycampus.com/opencampus/ethical-hacking/phases-of-hacking
 
+- **Presentación**  
+  https://docs.google.com/presentation/d/18181IOHD2cG0HUhFWvcaG1Eab3rM2veVPsy1aakMjQ8/edit?usp=sharing
 
 ## Herramientas
 - **Shodan – buscador de dispositivos vulnerables**  
